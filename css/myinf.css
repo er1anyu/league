@@ -1,0 +1,36 @@
+body {
+    background-color: blanchedalmond;
+
+}
+
+/* #content {
+    top: 30%;
+    left: 40%; */
+/* position: absolute;
+} */
+
+h1 {
+    font-size: 40px;
+    font-family: SimSun;
+    text-align: center;
+    margin: auto auto;
+    color: rgb(0, 0, 0);
+}
+
+table {
+
+    margin: 10px auto;
+}
+
+th {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 3px;
+
+}
+
+td {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 3px;
+}
